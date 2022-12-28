@@ -41,3 +41,7 @@ It is a powerful and flexible platform that can be used to manage a wide range o
 | Community | Large | Large |
 | Maturity | Mature | Less mature |
 | Complexity | High | Low |
+
+* As you can see, both Kubernetes and Docker Swarm offer similar capabilities for container orchestration, scaling, load balancing, and service discovery.
+* However, Kubernetes has more advanced features for self-healing, rolling updates, and native support for stateful workloads.
+* It also has a custom scheduler and ingress capabilities, which are not available in Docker Swarm. Additionally, Kubernetes has a larger and more mature community, but it is also more complex to set up and use than Docker Swarm.
