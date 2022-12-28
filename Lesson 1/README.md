@@ -32,15 +32,15 @@ It is a powerful and flexible platform that can be used to manage a wide range o
 
 | **Feature** | **Kubernetes** | **Docker Swarm** |
 |:---:|:---:|:---:|
-| Container orchestration | Yes | Yes |
+| Container Orchestration | Yes | Yes |
 | Scaling | Yes | Yes |
-| Load balancing | Yes | Yes |
-| Service discovery | Yes | Yes |
-| Self-healing | Yes | Limited |
-| Rolling updates | Yes | Limited |
-| Custom scheduler | Yes | No |
+| Load Balancing | Yes | Yes |
+| Service Discovery | Yes | Yes |
+| Self-Healing | Yes | Limited |
+| Rolling Updates | Yes | Limited |
+| Custom Scheduler | Yes | No |
 | Ingress | Yes | Limited |
-| Native support for stateful workloads | Yes | Limited |
+| Native Support for Stateful Workloads | Yes | Limited |
 | Community | Large | Large |
 | Maturity | Mature | Less mature |
 | Complexity | High | Low |
