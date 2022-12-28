@@ -20,13 +20,13 @@ It is a powerful and flexible platform that can be used to manage a wide range o
 
 ## Kubernetes VS Docker Swarm
 
-1. **Advanced features**: Kubernetes has a more comprehensive set of features for managing and orchestrating containers, including self-healing, rolling updates, and native support for stateful workloads.
+1. **Advanced Features**: Kubernetes has a more comprehensive set of features for managing and orchestrating containers, including self-healing, rolling updates, and native support for stateful workloads.
 
-2. **Custom scheduler**: Kubernetes has a custom scheduler that allows you to specify how workloads should be placed on nodes based on resource constraints and other factors. This is not available in Docker Swarm.
+2. **Custom Scheduler**: Kubernetes has a custom scheduler that allows you to specify how workloads should be placed on nodes based on resource constraints and other factors. This is not available in Docker Swarm.
 
 3. **Ingress**: Kubernetes has a built-in ingress controller that allows you to easily expose services to the outside world. This is not available in Docker Swarm, which requires you to use an external ingress controller.
 
-4. **Mature ecosystem**: Kubernetes has a large and mature ecosystem, with a wide range of tools and resources available for managing and scaling containerized applications.
+4. **Mature Ecosystem**: Kubernetes has a large and mature ecosystem, with a wide range of tools and resources available for managing and scaling containerized applications.
 
 5. **Community**: Kubernetes has a larger and more established community, with a wider range of support and resources available. This can make it easier to find help and guidance when working with the platform.
 
