@@ -1,5 +1,7 @@
 # Kubernetes | K8s 101
 
+![kubernetes-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png)
+
 ## Introduction
 Kubernetes is a complex and constantly-evolving platform that makes it easy to deploy and manage containerized applications at scale (said no one ever).
 
@@ -14,6 +16,7 @@ But hey, at least it's open source and widely adopted, so you can't really go wr
 Despite its complexity, Kubernetes has become the de facto standard for container orchestration, and is used by many organizations to manage their containerized applications in production environments.
 It is a powerful and flexible platform that can be used to manage a wide range of workloads, from simple web applications to complex distributed systems.
 
+![differences](https://nickjanetakis.com/assets/blog/cards/docker-swarm-vs-kubernetes-which-one-should-you-learn-1fe9fd6549f5e0bbd2e0573d606db859322741aa29ad407e4dbae509da62dc44.jpg)
 
 ## Kubernetes VS Docker Swarm
 
