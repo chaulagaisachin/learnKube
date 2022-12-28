@@ -56,14 +56,14 @@ It is a powerful and flexible platform that can be used to manage a wide range o
 * Kubernetes can be complex to set up and manage, especially for large and complex deployments.
 * It requires a significant amount of knowledge and expertise to effectively use and maintain a Kubernetes cluster.
 
-2. **Resource overhead**: 
+2. **Resource Overhead**: 
 * Kubernetes requires a certain amount of resources to run, including both CPU and memory.
 * This can be an issue in environments where resources are constrained or where the overhead is not justified by the benefits of using Kubernetes.
   
-3. **Compatibility issues**: 
+3. **Compatibility Issues**: 
 * Kubernetes is a rapidly evolving platform, and this can sometimes lead to compatibility issues with older versions or with certain tools and services.
 
-4. **Lack of flexibility**:
+4. **Lack of Flexibility**:
 * Kubernetes has a certain set of features and capabilities that may not fit all use cases. 
 * Some users may find that it is too rigid or inflexible for their needs.
 
