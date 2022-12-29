@@ -33,7 +33,7 @@
 
 ## Kubernetes Architecture vs Docker Swarm Architecture
 
-| **Kubernetes** | **Docker Swarm** |  |
+| Components | **Kubernetes** | **Docker Swarm** |
 |:---:|:---:|:---:|
 | Master Node | Central control plane that maintains desired state of cluster and schedules workloads | No central control plane; all nodes are equal and can be used to run workloads |
 | Worker Nodes | Managed by master node and receive instructions on which containers to run | Managed using a leader election process |
