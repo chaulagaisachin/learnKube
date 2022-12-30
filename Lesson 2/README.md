@@ -12,6 +12,7 @@
 
 3. **Etcd**: 
 * Etcd is a distributed key-value store that is used by the Kubernetes master to store the cluster's desired state.
+* Open source distributed key-value store used to hold and manage the critical information that distributed systems need to keep running. Most notably, it manages the configuration data, state data, and metadata for Kubernetes
 
 4. **API server**: 
 * The API server is the interface through which users and clients can interact with the cluster. 
